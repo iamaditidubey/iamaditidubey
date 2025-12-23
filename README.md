@@ -15,7 +15,7 @@ UI/UX Designer • Flutter Developer • Project Associate @ C-DAC
 ---
 
 <!-- ===================== ABOUT ===================== -->
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <h2>👩‍💻 About Me</h2>
 
@@ -24,7 +24,7 @@ UI/UX Designer • Flutter Developer • Project Associate @ C-DAC
 🎨 I design **clean, user-centric interfaces** and build them with Flutter  
 🌱 Focused on **branding, usability, and real-world problem solving**
 
-> *“Design is not just how it looks, but how it works.”*
+> *“Good design is obvious. Great design is transparent.”*
 
 ---
 
@@ -67,19 +67,6 @@ UI/UX Designer • Flutter Developer • Project Associate @ C-DAC
 📱 Flutter UI-focused applications  
 📁 Personal design & development portfolio  
 🎥 Planning a **YouTube channel** (design • projects • career)
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banku27&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banku27&theme=tokyonight" />
-</p>
 
 ---
 
