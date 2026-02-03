@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <h1 align="center">✨ Aditi Dubey ✨</h1>
-<h1 align="center">✨ My old Profile is Aditidubey223 ✨</h1>
+<h1 align="center">✨ My old Profile is Aditidubey223   <a href="https://github.com/Aditidubey223" target="_blank"> ✨</h1>
 <h3 align="center">
 UI/UX Designer • Flutter Developer • Project Associate @ C-DAC
 </h3>
