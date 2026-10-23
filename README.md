@@ -2,7 +2,7 @@
 <h1 align="center">✨ Aditi Dubey ✨</h1>
 <h1 align="center">✨ My old Profile is Aditidubey223 ✨</h1>
 <h3 align="center">
-UI/UX Designer • Flutter Developer • Project Associate @ C-DAC
+UI/UX Designer • Flutter Developer 
 </h3>
 
 <p align="center">
