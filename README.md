@@ -21,7 +21,6 @@ UI/UX Designer • Flutter Developer
 <h2>🌸 About Me</h2>
 
 ✨ Hi, I’m **Aditi Dubey** — a **UI/UX Designer** and **Flutter Developer**  
-💼 Currently working as a **Project Associate at C-DAC**  
 🎨 I craft **beautiful, inclusive, and user-centric experiences**  
 💡 Passionate about **design systems, branding, and women in tech**
 
